@@ -100,5 +100,8 @@ File PCAP berisi paket-paket yang terkait dengan lalu lintas yang dilihat oleh N
 
 14.	Di VM CyberOps Workstation, mulai jendela terminal R1 ketiga.
 
+![Picture14 1](https://user-images.githubusercontent.com/99699435/227879952-95355f69-aabc-4ed2-bd6f-469401f63a39.png)
 
 Di jendela terminal R1 baru, gunakan perintah iptables untuk membuat daftar rantai dan aturannya yang sedang digunakan:
+
+![Picture14 2](https://user-images.githubusercontent.com/99699435/227879983-8a74e453-975d-4f02-ba0f-84878dd97cd0.png)
