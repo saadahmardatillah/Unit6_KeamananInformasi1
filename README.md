@@ -53,3 +53,22 @@ a.	Port 666. Port ini ditentukan dalam URL, setelah tanda pemisah (:)
 b.	File sepenuhnya telah diunduh
 
 c.	IDS telah mengasilkan peringatan yang memiliki kaitan dengan unduhan file
+
+9.	Saat file berbahaya sedang transit R1, IDS, Snort, dapat memeriksa muatannya. Payload cocok dengan setidaknya satu tanda tangan yang dikonfigurasi di Snort dan memicu peringatan di jendela terminal R1 kedua (tab tempat tail -f berjalan). Entri peringatan ditunjukkan di bawah ini. Stempel waktu Anda akan berbeda:
+
+![Picture9](https://user-images.githubusercontent.com/99699435/227877477-5fc83339-7cc1-4c9b-941f-3679b0216932.png)
+
+## Soal 3: 
+a.	Berdasarkan peringatan yang ditunjukkan di atas, apa alamat IPv4 sumber dan tujuan yang digunakan dalam transaksi?
+
+b.	Berdasarkan alert di atas, port sumber dan tujuan apa yang digunakan dalam transaksi?
+
+c.	Berdasarkan peringatan yang ditunjukkan di atas, kapan pengunduhan dilakukan?
+
+d.	Berdasarkan peringatan yang ditunjukkan di atas, apa pesan yang direkam IDS signature? 
+
+## Penyelesaian:
+a.	Alamat IP sumber adalah: 209.165.200.235 dan alamat IP tujuan adalah: 209.165.202.133
+b.	Port sumber adalah: 52804 dan port tujuan adalah 666 
+c.	Pengunduhan dilakukan pada tanggal 21 Maret 2023, pukul 11:29
+d.	Pesan yang direkam IDS signature adalah Malicious Server Hit!
