@@ -114,9 +114,15 @@ INPUT, FORWARD, OUTPUT
 
 15.	Koneksi ke server menghasilkan paket yang harus melintasi firewall iptables di R1. Paket yang melintasi firewall ditangani oleh aturan FORWARD dan oleh karena itu, rantai itulah yang akan menerima aturan pemblokiran. Agar komputer pengguna tidak terhubung ke server yang diidentifikasi di Langkah 1, tambahkan aturan berikut ke rantai FORWARD di R1:
 
+![Picture15](https://user-images.githubusercontent.com/99699435/227881004-c30580df-6fc7-415d-8739-1d5c00b03373.png)
+
 16.	Gunakan perintah iptables lagi untuk memastikan aturan telah ditambahkan ke rantai FORWARD. VM CyberOps Workstation mungkin memerlukan beberapa detik untuk menghasilkan output.
 
+![Picture16](https://user-images.githubusercontent.com/99699435/227881024-39643e71-3983-4b63-b25f-ebb1ba0916e9.png)
+
 17.	Pada H5, coba unduh file kembali 
+
+![Picture17](https://user-images.githubusercontent.com/99699435/227881041-f951647e-291d-4112-989c-eaabb93e2a0f.png)
 
 Uji coba firewall yang sedang berjalan:
 
