@@ -69,6 +69,9 @@ d.	Berdasarkan peringatan yang ditunjukkan di atas, apa pesan yang direkam IDS s
 
 ## Penyelesaian:
 a.	Alamat IP sumber adalah: 209.165.200.235 dan alamat IP tujuan adalah: 209.165.202.133
+
 b.	Port sumber adalah: 52804 dan port tujuan adalah 666 
+
 c.	Pengunduhan dilakukan pada tanggal 21 Maret 2023, pukul 11:29
+
 d.	Pesan yang direkam IDS signature adalah Malicious Server Hit!
