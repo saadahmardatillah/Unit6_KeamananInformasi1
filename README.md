@@ -105,3 +105,9 @@ File PCAP berisi paket-paket yang terkait dengan lalu lintas yang dilihat oleh N
 Di jendela terminal R1 baru, gunakan perintah iptables untuk membuat daftar rantai dan aturannya yang sedang digunakan:
 
 ![Picture14 2](https://user-images.githubusercontent.com/99699435/227879983-8a74e453-975d-4f02-ba0f-84878dd97cd0.png)
+
+## Soal 5: 
+Rantai apa yang saat ini digunakan oleh R1?
+
+## Penyelesaian:
+INPUT, FORWARD, OUTPUT
