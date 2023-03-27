@@ -78,8 +78,16 @@ d.	Pesan yang direkam IDS signature adalah Malicious Server Hit!
 
 10.	Pada H5, gunakan perintah tcpdump untuk merekam peristiwa dan mengunduh file malware lagi sehingga Anda dapat merekam transaksi. Keluarkan perintah berikut di bawah ini mulai pengambilan paket:
 
+![Picture10](https://user-images.githubusercontent.com/99699435/227878918-3acebd2f-6a33-4e68-9862-f9210ec9d800.png)
+
 11.	Sekarang tcpdump menangkap paket, unduh malware lagi. Pada H5, jalankan kembali perintah atau gunakan panah atas untuk memanggilnya kembali dari fasilitas riwayat perintah.
+
+![Picture11](https://user-images.githubusercontent.com/99699435/227878934-05dd8403-8722-4ae8-a308-df2786284344.png)
 
 12.	Hentikan pengambilan dengan membawa tcpdump ke latar depan dengan perintah fg. Karena tcpdump adalah satu-satunya proses yang dikirim ke latar belakang, PID tidak perlu ditentukan.
 
+![Picture12](https://user-images.githubusercontent.com/99699435/227878945-9f1f4ebf-b0ad-48ac-9439-9d68478f5c6a.png)
+
 13.	Pada H5, Gunakan perintah ls untuk memverifikasi file pcap sebenarnya disimpan ke disk dan memiliki ukuran lebih besar dari nol.
+
+![Picture13](https://user-images.githubusercontent.com/99699435/227878961-f52519e7-5796-4e8d-8c81-81e19aec5f79.png) 
