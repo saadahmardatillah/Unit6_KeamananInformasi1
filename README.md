@@ -15,3 +15,11 @@
 
 4.	Menjalankan perintah dari prompt miniset untuk buka shell R1.
 
+![Picture4](https://user-images.githubusercontent.com/99699435/227874430-9268f8dc-b415-4b07-b439-744be06e1c1b.png) 
+
+## Soal 1: 
+Shell R1 terbuka di jendela terminal dengan teks hitam dan latar belakang putih. 
+Pengguna apa yang masuk ke shell itu? Ini indikatornya apa??
+##Penyelesaian:
+Pengguna yang masuk ke shell adalah pengguna root. Ditunjukan oleh tanda # setelah prompt. 
+
