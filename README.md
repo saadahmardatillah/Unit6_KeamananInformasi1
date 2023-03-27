@@ -131,3 +131,8 @@ Uji coba firewall yang sedang berjalan:
 18.	Menghentikan dan menghapus proses miniset 
 
 ![Picture19](https://user-images.githubusercontent.com/99699435/227881072-5ee42621-4274-4b66-ba90-85881c4bf4cb.png)
+
+## Kesimpulan 
+1.	Snort dapat memberikan peringatan adanya sebuah serangan keamanan, sehingga dapat meningkatkan keamanan jaringan. Dapat atau tidaknya sebuah serangan terdeteksi oleh Snort IDS tergantung dari ada tidaknya rule dengan jenis signature pada sebuah pola serangan.
+
+2.	Salah satu cara untuk meningkatkan keamanan dalam jaringan adalah dengan mengimplementasikan Intrusion Detection System (IDS), merupakan sebuah sistem yang digunakan untuk melakukan deteksi adanya usaha-usaha penyusupan terhadap sebuah sistem dengan melakukan pengamatan trafik secara real-time. 
