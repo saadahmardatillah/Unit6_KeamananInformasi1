@@ -24,3 +24,5 @@ Pengguna apa yang masuk ke shell itu? Ini indikatornya apa??
 ## Penyelesaian:
 Pengguna yang masuk ke shell adalah pengguna root. Ditunjukan oleh tanda # setelah prompt. 
 
+5.	 Membuka shell host H5 dan H10. 
+
