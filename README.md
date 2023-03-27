@@ -39,3 +39,13 @@ Pengguna yang masuk ke shell adalah pengguna root. Ditunjukan oleh tanda # setel
 8.	Pada terminal H5, menggunakan perintah wget untuk mengunduh file Bernama W32.Nimda.Amm.exe.
 
 ![Picture8](https://user-images.githubusercontent.com/99699435/227876220-5a59b4e0-a0aa-4043-aa86-e245a49dc0b4.png)
+
+## Soal 2: 
+a.	Port apa yang digunakan saat berkomunikasi dengan server web malware? Apa indikatornya?
+b.	Apakah file telah diunduh sepenuhnya?
+c.	Apakah IDS menghasilkan peringatan yang terkait dengan unduhan file?
+
+## Penyelesaian:
+a.	Port 666. Port ini ditentukan dalam URL, setelah tanda pemisah (:)
+b.	File sepenuhnya telah diunduh
+c.	IDS telah mengasilkan peringatan yang memiliki kaitan dengan unduhan file
