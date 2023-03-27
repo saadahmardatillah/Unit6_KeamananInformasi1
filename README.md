@@ -111,3 +111,13 @@ Rantai apa yang saat ini digunakan oleh R1?
 
 ## Penyelesaian:
 INPUT, FORWARD, OUTPUT
+
+15.	Koneksi ke server menghasilkan paket yang harus melintasi firewall iptables di R1. Paket yang melintasi firewall ditangani oleh aturan FORWARD dan oleh karena itu, rantai itulah yang akan menerima aturan pemblokiran. Agar komputer pengguna tidak terhubung ke server yang diidentifikasi di Langkah 1, tambahkan aturan berikut ke rantai FORWARD di R1:
+
+16.	Gunakan perintah iptables lagi untuk memastikan aturan telah ditambahkan ke rantai FORWARD. VM CyberOps Workstation mungkin memerlukan beberapa detik untuk menghasilkan output.
+
+17.	Pada H5, coba unduh file kembali 
+
+Uji coba firewall yang sedang berjalan:
+
+18.	Menghentikan dan menghapus proses miniset 
