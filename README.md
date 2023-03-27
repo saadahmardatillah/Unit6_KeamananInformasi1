@@ -11,3 +11,7 @@
 
 3.	Menjalankan skrip miniset. 
 
+![Picture3](https://user-images.githubusercontent.com/99699435/227874038-8020fa4c-6d36-4905-9c0a-f05e737b9519.png)
+
+4.	Menjalankan perintah dari prompt miniset untuk buka shell R1.
+
