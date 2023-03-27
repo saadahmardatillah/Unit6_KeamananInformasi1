@@ -26,3 +26,16 @@ Pengguna yang masuk ke shell adalah pengguna root. Ditunjukan oleh tanda # setel
 
 5.	 Membuka shell host H5 dan H10. 
 
+![Picture5](https://user-images.githubusercontent.com/99699435/227876129-53117f83-948f-4d55-9431-9e9e50bac973.png)
+
+6.	H10 melakukan simulasi server di internet yang melakukan hosting malware.
+
+![Picture6](https://user-images.githubusercontent.com/99699435/227876161-49cd428b-1461-42e3-9ef9-dc4dc693dbbc.png)
+
+7.	Pada tab terminal R1 yang baru, menjalankan perintah tail dengan opsi -f untuk memantau file /var/log/snort secara real-time.
+
+![Picture7](https://user-images.githubusercontent.com/99699435/227876182-709a0ae7-c552-4297-91d4-e7df3b87b594.png)
+
+8.	Pada terminal H5, menggunakan perintah wget untuk mengunduh file Bernama W32.Nimda.Amm.exe.
+
+![Picture8](https://user-images.githubusercontent.com/99699435/227876220-5a59b4e0-a0aa-4043-aa86-e245a49dc0b4.png)
