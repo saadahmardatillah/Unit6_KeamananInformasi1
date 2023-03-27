@@ -7,3 +7,7 @@
 
 2. Melakukan ping ke www.cisco.com.
 
+![Picture2](https://user-images.githubusercontent.com/99699435/227873838-077c2bcd-1319-4d36-b371-016ef2b319de.png)
+
+3.	Menjalankan skrip miniset. 
+
