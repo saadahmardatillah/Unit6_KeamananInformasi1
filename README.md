@@ -42,10 +42,14 @@ Pengguna yang masuk ke shell adalah pengguna root. Ditunjukan oleh tanda # setel
 
 ## Soal 2: 
 a.	Port apa yang digunakan saat berkomunikasi dengan server web malware? Apa indikatornya?
+
 b.	Apakah file telah diunduh sepenuhnya?
+
 c.	Apakah IDS menghasilkan peringatan yang terkait dengan unduhan file?
 
 ## Penyelesaian:
 a.	Port 666. Port ini ditentukan dalam URL, setelah tanda pemisah (:)
+
 b.	File sepenuhnya telah diunduh
+
 c.	IDS telah mengasilkan peringatan yang memiliki kaitan dengan unduhan file
