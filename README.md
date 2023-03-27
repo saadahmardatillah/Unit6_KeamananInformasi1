@@ -97,3 +97,8 @@ Bagaimana file PCAP ini berguna bagi analis keamanan?
 
 ## Penyelesaian:
 File PCAP berisi paket-paket yang terkait dengan lalu lintas yang dilihat oleh NIC yang menangkap. Dengan begitu, PCAP sangat berguna untuk menelusuri kembali peristiwa jaringan seperti komunikasi ke titik akhir yang berbahaya. Alat seperti Wireshark dapat digunakan untuk memfasilitasi analisis PCAP.
+
+14.	Di VM CyberOps Workstation, mulai jendela terminal R1 ketiga.
+
+
+Di jendela terminal R1 baru, gunakan perintah iptables untuk membuat daftar rantai dan aturannya yang sedang digunakan:
