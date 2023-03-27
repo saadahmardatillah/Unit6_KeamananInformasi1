@@ -91,3 +91,9 @@ d.	Pesan yang direkam IDS signature adalah Malicious Server Hit!
 13.	Pada H5, Gunakan perintah ls untuk memverifikasi file pcap sebenarnya disimpan ke disk dan memiliki ukuran lebih besar dari nol.
 
 ![Picture13](https://user-images.githubusercontent.com/99699435/227878961-f52519e7-5796-4e8d-8c81-81e19aec5f79.png) 
+
+## Soal 4: 
+Bagaimana file PCAP ini berguna bagi analis keamanan?
+
+## Penyelesaian:
+File PCAP berisi paket-paket yang terkait dengan lalu lintas yang dilihat oleh NIC yang menangkap. Dengan begitu, PCAP sangat berguna untuk menelusuri kembali peristiwa jaringan seperti komunikasi ke titik akhir yang berbahaya. Alat seperti Wireshark dapat digunakan untuk memfasilitasi analisis PCAP.
