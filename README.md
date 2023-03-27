@@ -75,3 +75,11 @@ b.	Port sumber adalah: 52804 dan port tujuan adalah 666
 c.	Pengunduhan dilakukan pada tanggal 21 Maret 2023, pukul 11:29
 
 d.	Pesan yang direkam IDS signature adalah Malicious Server Hit!
+
+10.	Pada H5, gunakan perintah tcpdump untuk merekam peristiwa dan mengunduh file malware lagi sehingga Anda dapat merekam transaksi. Keluarkan perintah berikut di bawah ini mulai pengambilan paket:
+
+11.	Sekarang tcpdump menangkap paket, unduh malware lagi. Pada H5, jalankan kembali perintah atau gunakan panah atas untuk memanggilnya kembali dari fasilitas riwayat perintah.
+
+12.	Hentikan pengambilan dengan membawa tcpdump ke latar depan dengan perintah fg. Karena tcpdump adalah satu-satunya proses yang dikirim ke latar belakang, PID tidak perlu ditentukan.
+
+13.	Pada H5, Gunakan perintah ls untuk memverifikasi file pcap sebenarnya disimpan ke disk dan memiliki ukuran lebih besar dari nol.
