@@ -126,4 +126,8 @@ INPUT, FORWARD, OUTPUT
 
 Uji coba firewall yang sedang berjalan:
 
+![Picture18](https://user-images.githubusercontent.com/99699435/227881049-2bac70ad-da55-48d5-82fc-ed32138cedec.png)
+
 18.	Menghentikan dan menghapus proses miniset 
+
+![Picture19](https://user-images.githubusercontent.com/99699435/227881072-5ee42621-4274-4b66-ba90-85881c4bf4cb.png)
