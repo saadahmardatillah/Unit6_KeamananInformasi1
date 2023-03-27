@@ -20,6 +20,7 @@
 ## Soal 1: 
 Shell R1 terbuka di jendela terminal dengan teks hitam dan latar belakang putih. 
 Pengguna apa yang masuk ke shell itu? Ini indikatornya apa??
-##Penyelesaian:
+
+## Penyelesaian:
 Pengguna yang masuk ke shell adalah pengguna root. Ditunjukan oleh tanda # setelah prompt. 
 
